@@ -1,2 +1,2 @@
 # MigraIPimpressora
-Script PowerShell para alteração de IPs de impressoras em Estações.
+Script PowerShell para alterações de IPs de impressoras em Estações.
